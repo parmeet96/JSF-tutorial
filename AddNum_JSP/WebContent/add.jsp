@@ -13,7 +13,7 @@
 		
 	int k = i + j;
 	
-	out.println("Output is " +k);
+	out.println("Output is corrected k" +k);
 	
 	%>
 </body>
